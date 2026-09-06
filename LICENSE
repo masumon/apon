@@ -1,17 +1,226 @@
-Copyright (c) 2026 ABO ENTERPRISE. All rights reserved.
+APON — END USER LICENCE AGREEMENT (EULA)
+আপন — ব্যবহারকারী লাইসেন্স চুক্তি
 
+Copyright © 2026 ABO ENTERPRISE. All rights reserved.
 সর্বস্বত্ব সংরক্ষিত।
 
-This repository distributes the Apon Android application in binary form
-(APK) for personal use. The application's source code is not published.
+Version 1.0 — Effective 7 September 2026
+সংস্করণ ১.০ — কার্যকর: ৭ সেপ্টেম্বর ২০২৬
 
-এই রিপোজিটরি থেকে আপন অ্যাপটি ব্যক্তিগত ব্যবহারের জন্য ডাউনলোড ও ইনস্টল
-করা যাবে। অ্যাপটির সোর্স কোড প্রকাশিত নয়।
+================================================================================
+PREAMBLE / ভূমিকা
+================================================================================
 
-You may download and install the application for your own use. You may not
-redistribute, sell, modify, decompile or reverse engineer it without prior
-written permission from ABO ENTERPRISE.
+This End User Licence Agreement ("Agreement") is a legal agreement between you
+("User") and ABO ENTERPRISE ("Licensor") governing your use of the Apon mobile
+application ("Software"). By downloading, installing or using the Software, you
+accept and agree to be bound by the terms of this Agreement. If you do not
+agree, do not download, install or use the Software.
 
-অনুমতি ছাড়া অ্যাপটি পুনর্বিতরণ, বিক্রি, পরিবর্তন বা রিভার্স-ইঞ্জিনিয়ার করা যাবে না।
+এই চুক্তিটি আপনি ("ব্যবহারকারী") এবং ABO ENTERPRISE ("লাইসেন্সদাতা")-এর মধ্যে
+একটি আইনগত চুক্তি, যা "আপন" মোবাইল অ্যাপ্লিকেশন ("সফটওয়্যার") ব্যবহারের শর্ত
+নির্ধারণ করে। সফটওয়্যারটি ডাউনলোড, ইনস্টল বা ব্যবহার করার মাধ্যমে আপনি এই
+চুক্তির শর্তাবলি মেনে নিচ্ছেন। শর্তে সম্মত না হলে সফটওয়্যারটি ব্যবহার করবেন না।
 
-Contact / যোগাযোগ: info@aboenterprise.com
+================================================================================
+1. GRANT OF LICENCE / লাইসেন্স প্রদান
+================================================================================
+
+1.1  The Licensor grants you a limited, personal, non-exclusive, non-transferable,
+     revocable and royalty-free licence to download, install and use the Software
+     on Android devices that you own or control, for your own personal or internal
+     business purposes.
+
+1.2  The Software is licensed to you, not sold. All rights not expressly granted
+     in this Agreement are reserved by the Licensor.
+
+১.১  লাইসেন্সদাতা আপনাকে একটি সীমিত, ব্যক্তিগত, অহস্তান্তরযোগ্য, প্রত্যাহারযোগ্য
+     ও বিনামূল্যে ব্যবহারের অনুমতি দিচ্ছেন — আপনার নিজের বা আপনার নিয়ন্ত্রণাধীন
+     অ্যান্ড্রয়েড ডিভাইসে ব্যক্তিগত বা অভ্যন্তরীণ ব্যবসায়িক কাজে ব্যবহারের জন্য।
+
+১.২  সফটওয়্যারটি আপনাকে লাইসেন্স দেওয়া হয়েছে, বিক্রি করা হয়নি। এই চুক্তিতে
+     স্পষ্টভাবে উল্লেখ নেই এমন সব অধিকার লাইসেন্সদাতার কাছে সংরক্ষিত।
+
+================================================================================
+2. RESTRICTIONS / নিষেধাজ্ঞা
+================================================================================
+
+You may NOT, without prior written permission from the Licensor:
+
+2.1  redistribute, publish, sell, rent, lease, sublicense or otherwise transfer
+     the Software or any copy of it to any third party;
+2.2  modify, adapt, translate or create derivative works based on the Software;
+2.3  reverse engineer, decompile, disassemble or otherwise attempt to derive the
+     source code, algorithms or underlying structure of the Software, except to
+     the extent such restriction is expressly prohibited by applicable law;
+2.4  remove, alter or obscure any copyright, trademark or other proprietary
+     notice contained in the Software;
+2.5  use the Software or its name, branding or design to develop, market or
+     distribute a competing product;
+2.6  use the Software for any unlawful purpose or in violation of any applicable
+     law or regulation.
+
+লাইসেন্সদাতার লিখিত অনুমতি ছাড়া আপনি নিচের কাজগুলো করতে পারবেন না —
+
+২.১  সফটওয়্যারটি বা তার কোনো কপি পুনর্বিতরণ, প্রকাশ, বিক্রি, ভাড়া বা হস্তান্তর;
+২.২  সফটওয়্যারটি পরিবর্তন, অভিযোজন, অনুবাদ বা এর ভিত্তিতে নতুন কিছু তৈরি;
+২.৩  রিভার্স-ইঞ্জিনিয়ারিং, ডিকম্পাইল বা সোর্স কোড উদ্ধারের চেষ্টা (প্রযোজ্য আইনে
+     অনুমোদিত সীমা ব্যতীত);
+২.৪  কপিরাইট, ট্রেডমার্ক বা মালিকানাসূচক কোনো নোটিশ মুছে ফেলা বা পরিবর্তন;
+২.৫  সফটওয়্যারটির নাম, ব্র্যান্ড বা নকশা ব্যবহার করে প্রতিদ্বন্দ্বী পণ্য তৈরি বা বিতরণ;
+২.৬  বেআইনি কোনো উদ্দেশ্যে বা প্রযোজ্য আইন লঙ্ঘন করে ব্যবহার।
+
+================================================================================
+3. INTELLECTUAL PROPERTY / মেধাস্বত্ব
+================================================================================
+
+3.1  The Software, including its source code, design, user interface, graphics,
+     text, icons and the "Apon" / "আপন" name and marks, is the exclusive property
+     of the Licensor and is protected by copyright and other intellectual
+     property laws of Bangladesh and by international treaties.
+
+3.2  The source code of the Software is NOT published and remains confidential
+     and proprietary. This repository distributes the Software in compiled
+     binary (APK) form only.
+
+৩.১  সফটওয়্যারটি — এর সোর্স কোড, নকশা, ইন্টারফেস, গ্রাফিক্স, লেখা, আইকন এবং
+     "আপন" নাম ও চিহ্নসহ — লাইসেন্সদাতার একচ্ছত্র সম্পত্তি এবং বাংলাদেশের
+     কপিরাইট ও মেধাস্বত্ব আইন ও আন্তর্জাতিক চুক্তি দ্বারা সুরক্ষিত।
+
+৩.২  সফটওয়্যারটির সোর্স কোড প্রকাশিত নয় এবং তা গোপনীয় ও মালিকানাধীন। এই
+     রিপোজিটরি থেকে কেবল কম্পাইল করা বাইনারি (APK) বিতরণ করা হয়।
+
+================================================================================
+4. USER DATA AND PRIVACY / ব্যবহারকারীর তথ্য ও গোপনীয়তা
+================================================================================
+
+4.1  The Software stores all data you enter locally on your device. The Licensor
+     does not operate a server for the Software, does not collect your content,
+     and has no access to it.
+
+4.2  You are solely responsible for your data, including creating and safeguarding
+     backups. The Licensor is not liable for any loss of data arising from device
+     loss, damage, theft, uninstallation, operating-system behaviour, a forgotten
+     backup passphrase, or any other cause.
+
+4.3  Where a backup is protected by a passphrase, that passphrase is not stored by
+     the Software and cannot be recovered by any party. If it is lost, the backup
+     cannot be opened.
+
+৪.১  সফটওয়্যারটি আপনার লেখা সব তথ্য আপনার ডিভাইসেই সংরক্ষণ করে। লাইসেন্সদাতার
+     কোনো সার্ভার নেই, আপনার কনটেন্ট সংগ্রহ করা হয় না এবং তাতে কারো প্রবেশাধিকার নেই।
+
+৪.২  আপনার তথ্যের দায়িত্ব সম্পূর্ণ আপনার — ব্যাকআপ নেওয়া ও সংরক্ষণ করাসহ। ডিভাইস
+     হারানো, নষ্ট হওয়া, চুরি, আনইনস্টল, অপারেটিং সিস্টেমের আচরণ, পাসফ্রেজ ভুলে
+     যাওয়া বা অন্য যেকোনো কারণে তথ্য হারালে লাইসেন্সদাতা দায়ী থাকবেন না।
+
+৪.৩  পাসফ্রেজ দিয়ে সুরক্ষিত ব্যাকআপের ক্ষেত্রে সেই পাসফ্রেজ সফটওয়্যারে সংরক্ষিত
+     হয় না এবং কেউ তা উদ্ধার করতে পারে না। ভুলে গেলে ওই ব্যাকআপ আর খোলা যাবে না।
+
+================================================================================
+5. DISCLAIMER OF WARRANTY / ওয়ারেন্টি অস্বীকার
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT.
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE
+OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CALCULATION, REMINDER OR RECORD IT
+PRODUCES WILL BE ACCURATE OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+The Software is a personal record-keeping tool. It does not constitute accounting,
+financial, legal, tax or medical advice, and must not be relied upon as such.
+
+সফটওয়্যারটি "যেমন আছে" ভিত্তিতে সরবরাহ করা হয়েছে, কোনো প্রকার প্রকাশ্য বা
+অন্তর্নিহিত ওয়ারেন্টি ছাড়াই। সফটওয়্যারটি নিরবচ্ছিন্ন বা ত্রুটিমুক্ত থাকবে, কিংবা
+এর হিসাব, রিমাইন্ডার বা রেকর্ড নির্ভুল হবে — এমন কোনো নিশ্চয়তা দেওয়া হয় না।
+
+সফটওয়্যারটি একটি ব্যক্তিগত রেকর্ড রাখার সহায়ক মাত্র। এটি হিসাবরক্ষণ, আর্থিক,
+আইনগত, কর বা চিকিৎসা পরামর্শ নয় এবং সেভাবে নির্ভর করা যাবে না।
+
+================================================================================
+6. LIMITATION OF LIABILITY / দায়বদ্ধতার সীমা
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR
+EXEMPLARY DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE, GOODWILL OR
+BUSINESS OPPORTUNITY, ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS
+AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+প্রযোজ্য আইনের সর্বোচ্চ সীমা পর্যন্ত, সফটওয়্যার ব্যবহারের ফলে সৃষ্ট কোনো
+পরোক্ষ, আনুষঙ্গিক বা পরিণামগত ক্ষতি, কিংবা তথ্য, মুনাফা, রাজস্ব, সুনাম বা
+ব্যবসায়িক সুযোগ হারানোর জন্য লাইসেন্সদাতা দায়ী থাকবেন না।
+
+================================================================================
+7. UPDATES AND AVAILABILITY / আপডেট ও সহজলভ্যতা
+================================================================================
+
+The Licensor may, at its sole discretion, release updates, modify features, or
+discontinue the Software at any time without notice, and is under no obligation
+to provide updates, support or maintenance.
+
+লাইসেন্সদাতা নিজ বিবেচনায় যেকোনো সময় আপডেট প্রকাশ, ফিচার পরিবর্তন বা সফটওয়্যার
+বন্ধ করতে পারেন। আপডেট, সহায়তা বা রক্ষণাবেক্ষণ প্রদানে তিনি বাধ্য নন।
+
+================================================================================
+8. TERMINATION / চুক্তি সমাপ্তি
+================================================================================
+
+This Agreement is effective until terminated. It terminates automatically and
+immediately if you breach any of its terms. Upon termination you must cease all
+use of the Software and delete all copies in your possession. Sections 3, 4, 5,
+6 and 9 survive termination.
+
+শর্ত লঙ্ঘন করলে এই চুক্তি স্বয়ংক্রিয়ভাবে ও তাৎক্ষণিকভাবে বাতিল হবে। বাতিল হলে
+আপনাকে সফটওয়্যারটির ব্যবহার বন্ধ করে সব কপি মুছে ফেলতে হবে। ধারা ৩, ৪, ৫, ৬ ও ৯
+চুক্তি বাতিলের পরও কার্যকর থাকবে।
+
+================================================================================
+9. GOVERNING LAW / প্রযোজ্য আইন
+================================================================================
+
+This Agreement is governed by and construed in accordance with the laws of the
+People's Republic of Bangladesh. The courts of Bangladesh shall have exclusive
+jurisdiction over any dispute arising out of or in connection with it.
+
+এই চুক্তি গণপ্রজাতন্ত্রী বাংলাদেশের প্রচলিত আইন দ্বারা পরিচালিত হবে এবং এ থেকে
+উদ্ভূত যেকোনো বিরোধ নিষ্পত্তির একচ্ছত্র এখতিয়ার বাংলাদেশের আদালতের।
+
+================================================================================
+10. THIRD-PARTY COMPONENTS / তৃতীয় পক্ষের উপাদান
+================================================================================
+
+The Software incorporates open-source components licensed by their respective
+owners. Those components remain subject to their own licence terms, which do not
+extend to the Software as a whole or to the Licensor's proprietary code.
+
+সফটওয়্যারটিতে ব্যবহৃত ওপেন-সোর্স উপাদানগুলো তাদের নিজ নিজ লাইসেন্সের অধীন।
+সেই শর্তাবলি সমগ্র সফটওয়্যার বা লাইসেন্সদাতার মালিকানাধীন কোডের ক্ষেত্রে প্রযোজ্য নয়।
+
+================================================================================
+11. ENTIRE AGREEMENT / সম্পূর্ণ চুক্তি
+================================================================================
+
+This Agreement constitutes the entire agreement between the parties regarding the
+Software and supersedes all prior understandings, whether written or oral. If any
+provision is held unenforceable, the remaining provisions remain in full force
+and effect.
+
+এই চুক্তিই সফটওয়্যার সংক্রান্ত পূর্ণাঙ্গ চুক্তি এবং পূর্বের সব লিখিত বা মৌখিক
+সমঝোতা বাতিল করে। কোনো ধারা অকার্যকর ঘোষিত হলে বাকি ধারাগুলো পূর্ণ কার্যকর থাকবে।
+
+================================================================================
+CONTACT / যোগাযোগ
+================================================================================
+
+ABO ENTERPRISE
+Email / ইমেইল : info@aboenterprise.com
+Web / ওয়েব    : https://www.aboenterprise.com
+
+Developed by / নির্মাতা : SUMON — https://mumainsumon.netlify.app
+
+--------------------------------------------------------------------------------
+Copyright © 2026 ABO ENTERPRISE. All rights reserved. সর্বস্বত্ব সংরক্ষিত।
+--------------------------------------------------------------------------------
