@@ -22,7 +22,10 @@
 
 <br>
 
-### 📲 [ **এখনই ডাউনলোড করুন · Download Now** ](../../releases/latest)
+### 📲 [ **এখনই ডাউনলোড করুন · Download Now** ](https://github.com/masumon/apon/releases/download/v0.1.0/Apon-v0.1.0-arm64-v8a.apk)
+
+<sub>ক্লিক করলেই APK নামা শুরু হবে · Tapping starts the download immediately</sub>
+<sub>[সব সংস্করণ দেখুন · View all releases](../../releases)</sub>
 
 <br>
 
