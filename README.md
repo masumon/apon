@@ -9,20 +9,20 @@
 
 <br>
 
-**আপনার কাজ · হিসাব · স্বাস্থ্য · স্মৃতি — সব এক অ্যাপে, শুধু আপনার ফোনেই**
+**আপনার কাজ · হিসাব · স্বাস্থ্য · মেমোরি — সব এক অ্যাপে, শুধু আপনার ফোনেই**
 
 *Your tasks · money · health · memories — one app, on your phone alone*
 
 <br>
 
-![Version](https://img.shields.io/badge/সংস্করণ%20Version-0.1.0-2456C9?style=for-the-badge)
+![Version](https://img.shields.io/badge/সংস্করণ%20Version-1.0.0-2456C9?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Android-7.0%2B-1E874A?style=for-the-badge&logo=android&logoColor=white)
-![Size](https://img.shields.io/badge/আকার%20Size-44.6%20MB-B4832E?style=for-the-badge)
+![Size](https://img.shields.io/badge/আকার%20Size-52.8%20MB-B4832E?style=for-the-badge)
 ![Price](https://img.shields.io/badge/সম্পূর্ণ%20ফ্রি%20Free-০%20৳-C13B2E?style=for-the-badge)
 
 <br>
 
-### 📲 [ **এখনই ডাউনলোড করুন · Download Now** ](https://github.com/masumon/apon/releases/latest/download/Apon-arm64-v8a.apk)
+### 📲 [ **এখনই ডাউনলোড করুন · Download Now** ](https://github.com/masumon/apon/releases/latest/download/Apon.apk)
 
 <sub>ক্লিক করলেই APK নামা শুরু হবে · Tapping starts the download immediately</sub>
 <sub>[সব সংস্করণ দেখুন · View all releases](../../releases)</sub>
@@ -159,7 +159,7 @@ Most importantly: **none of your data is sent anywhere.** It stays on your own p
 
 **আরও আছে · Also inside**
 
-`📅 দিনপঞ্জি` &nbsp; `🔍 সার্চ` &nbsp; `🏷️ ট্যাগ` &nbsp; `⏱️ ফোকাস মোড` &nbsp; `📊 সাপ্তাহিক রিভিউ` &nbsp; `🗑️ ট্র্যাশ (৩০ দিন)` &nbsp; `📄 PDF রিপোর্ট` &nbsp; `🌗 ডার্ক মোড`
+`📅 ক্যালেন্ডার` &nbsp; `🔍 সার্চ` &nbsp; `🏷️ ট্যাগ` &nbsp; `⏱️ ফোকাস মোড` &nbsp; `📊 সাপ্তাহিক রিভিউ` &nbsp; `🗑️ ট্র্যাশ (৩০ দিন)` &nbsp; `📄 PDF রিপোর্ট` &nbsp; `🌗 ডার্ক মোড`
 
 </div>
 
@@ -284,9 +284,9 @@ Most importantly: **none of your data is sent anywhere.** It stays on your own p
 <details>
 <summary><b>📱 আমার ফোনে কি চলবে? · Will it run on my phone?</b></summary>
 <br>
-আপনার ফোন <b>Android 7.0 বা তার পরের</b> হলেই চলবে। ২০১৭ সালের পরের প্রায় সব অ্যান্ড্রয়েড ফোনেই চলে। দেখতে চাইলে: <b>Settings → About phone → Android version</b>।
+আপনার ফোন <b>Android 7.0 বা তার পরের</b> হলেই চলবে। ২০১৭ সালের পরের প্রায় সব অ্যান্ড্রয়েড ফোনেই চলে। দেখতে চাইলে: <b>Settings → About phone → Android version</b>। অফলাইন AI চলে ৬৪-বিট ফোনে; পুরনো ৩২-বিট ফোনে AI ছাড়া বাকি সবকিছু চলে।
 <br><br>
-<i>Any phone with <b>Android 7.0 or newer</b> — nearly every Android phone since 2017. Check under <b>Settings → About phone</b>.</i>
+<i>Any phone with <b>Android 7.0 or newer</b> — nearly every Android phone since 2017. Check under <b>Settings → About phone</b>. The on-device AI needs a 64-bit phone; on older 32-bit phones everything else works without the AI.</i>
 </details>
 
 <details>
@@ -319,7 +319,7 @@ Most importantly: **none of your data is sent anywhere.** It stays on your own p
 | **"অ্যাপ ইনস্টল করা যায়নি"**<br><sub>*"App not installed"*</sub> | ফোনে খালি জায়গা আছে কিনা দেখুন। পুরনো সংস্করণ থাকলে আগে ব্যাকআপ নিয়ে সেটি সরিয়ে আবার চেষ্টা করুন<br><sub>*Check free space. Back up, remove any old version, then retry*</sub> |
 | **রিমাইন্ডার আসছে না**<br><sub>*Reminders not arriving*</sub> | **আরও → অনুমতি** থেকে নোটিফিকেশন অনুমতি দিন, আর ফোনের ব্যাটারি সেটিংসে অ্যাপটিকে "সীমাবদ্ধ নয়" করুন<br><sub>*Grant notification permission, and set the app to "unrestricted" in battery settings*</sub> |
 | **কথা বলে লেখা কাজ করছে না**<br><sub>*Voice input not working*</sub> | সহকারীর পাতায় **"ভাষার প্যাকেট নামান"** চাপুন — একবার ইন্টারনেট লাগবে, তারপর আর লাগবে না<br><sub>*Tap "download the language pack" — needs internet once only*</sub> |
-| **তথ্য ঠিক আছে কিনা দেখতে চাই**<br><sub>*Want to check data health*</sub> | **আরও → ডায়াগনস্টিকস → ডায়াগনস্টিকস চালান**<br><sub>***More → Diagnostics → Run diagnostics***</sub> |
+| **তথ্য ঠিক আছে কিনা দেখতে চাই**<br><sub>*Want to check data health*</sub> | **আরও → অ্যাপ ঠিক আছে কি না → পরীক্ষা চালান**<br><sub>***More → Is the app OK? → Run the check***</sub> |
 
 ---
 
@@ -384,6 +384,12 @@ Most importantly: **none of your data is sent anywhere.** It stays on your own p
 
 <br>
 
+**প্রধান ডিজাইনার · Lead Designer** — Brand Identity · UI Design · Graphics
+
+## [ MD ABDUR RAHMAN FAHIM ](https://www.facebook.com/fahimbd99)
+
+<br>
+
 **পরিচালনায় · Powered by**
 
 ## [ ABO ENTERPRISE ](https://www.aboenterprise.com)
@@ -399,6 +405,8 @@ Most importantly: **none of your data is sent anywhere.** It stays on your own p
 ##### *যা কিছু আপনার — সবই আপন*
 
 <sub>বাংলাদেশে তৈরি · Made in Bangladesh 🇧🇩</sub>
+
+<sub>সংস্করণ 1.0.0 · ৭ সেপ্টেম্বর ২০২৬ · Version 1.0.0 · 7 September 2026</sub>
 
 <br>
 
